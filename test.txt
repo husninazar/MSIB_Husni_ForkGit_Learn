@@ -1,0 +1,3 @@
+Husni mencoba untuk fork repo dari link yang diberikan.
+Lalu mencoba clone ke local repo.
+Lalu mengedit file test.txt
